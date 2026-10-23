@@ -2,6 +2,22 @@
 
 Public guestbook with submission form and admin moderation dashboard.
 
+Repository: https://github.com/0xyz-exe/digital-guestbook-laravel
+
+## Screenshots
+
+### Public Guestbook Feed
+![Public guestbook](docs/screenshots/01_guestbook_feed.png)
+
+### Guest Submission Form
+![Sign guestbook](docs/screenshots/02_sign_form.png)
+
+### Admin Moderation Dashboard
+![Admin moderation](docs/screenshots/03_moderation_dashboard.png)
+
+### Authentication
+![Authentication](docs/screenshots/04_login.png)
+
 ## Features
 
 - ✅ Public guestbook listing

@@ -6,17 +6,12 @@ Repository: https://github.com/0xyz-exe/digital-guestbook-laravel
 
 ## Screenshots
 
-### Public Guestbook Feed
-![Public guestbook](docs/screenshots/01_guestbook_feed.png)
-
-### Guest Submission Form
-![Sign guestbook](docs/screenshots/02_sign_form.png)
-
-### Admin Moderation Dashboard
-![Admin moderation](docs/screenshots/03_moderation_dashboard.png)
-
-### Authentication
-![Authentication](docs/screenshots/04_login.png)
+| Tampilan | Preview |
+|---|---|
+| **Dinding Buku Tamu Publik & Testimoni**<br>Halaman utama buku tamu publik yang menampilkan kartu pesan pengunjung terverifikasi, inisial avatar, dan tombol partisipasi | ![Dinding Buku Tamu Publik & Testimoni](docs/screenshots/01-public-guestbook-wall.png) |
+| **Formulir Pengisian Pesan Buku Tamu**<br>Formulir intake pengisian pesan buku tamu bagi publik dengan validasi nama, email opsional, nomor telepon, dan textarea pesan | ![Formulir Pengisian Pesan Buku Tamu](docs/screenshots/02-sign-guestbook-form.png) |
+| **Panel Moderasi Entri Buku Tamu Admin**<br>Dasbor kurasi pesan admin dengan metrik antrean moderasi (Pending Review, Approved, Total), dan aksi cepat Approve / Reject | ![Panel Moderasi Entri Buku Tamu Admin](docs/screenshots/03-moderation-admin-panel.png) |
+| **Pengaturan Profil Admin & Keamanan Akun**<br>Pusat pengelolaan identitas akun pengelola buku tamu dan formulir pembaruan kata sandi sistem | ![Pengaturan Profil Admin & Keamanan Akun](docs/screenshots/04-profile-account-settings.png) |
 
 ## Features
 
